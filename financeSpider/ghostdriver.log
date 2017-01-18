@@ -1,0 +1,95 @@
+[INFO  - 2017-01-18T13:25:33.615Z] GhostDriver - Main - running on port 30506
+[INFO  - 2017-01-18T13:25:35.019Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-18T13:25:35.020Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.customHeaders:  - {}
+[INFO  - 2017-01-18T13:25:35.020Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-18T13:25:35.020Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 97e29f30-dd81-11e6-93a6-c1cb4a54baa2
+[ERROR - 2017-01-18T13:25:55.806Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz002454
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:55.806Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:56.038Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz002535
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:56.038Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:56.039Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz002535
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:56.039Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:56.277Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz002615
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:56.277Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:57.773Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz300109
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:57.773Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:57.782Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz300109
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:57.782Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:58.818Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz300028
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:58.818Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:59.284Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz300350
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:59.284Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:59.537Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz300350
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:59.537Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:59.538Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - msg: ReferenceError: Can't find variable: hq_str_sz300350
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-18T13:25:59.538Z] Session [97e29f30-dd81-11e6-93a6-c1cb4a54baa2] - page.onError - stack:
+  eval code (undefined:1)
+  eval (:0)
+  _hq_cron (http://finance.sina.com.cn/js/data/20140924/util.js:74)
+
+  phantomjs://platform/console++.js:263 in error

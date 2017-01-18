@@ -1,0 +1,2 @@
+var hq_str_sz000033="";
+getData._hq_cron();
